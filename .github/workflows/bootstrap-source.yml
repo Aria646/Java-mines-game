@@ -27,3 +27,4 @@ jobs:
           git add -A
           git commit -m "Add cleaned Java Mines Game source"
           git push
+# retry after archive repair
